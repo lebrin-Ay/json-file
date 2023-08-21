@@ -1,0 +1,72 @@
+[
+    {
+        "name": "urgent: security update required",
+        "type": "email",
+        "date": "9/1/2022",
+        "status": "active",
+        "recipients": "all users"        
+    },
+    {
+        "name": "new feature update",
+        "type": "sms",
+        "date": "9/1/2022",
+        "status": "active",
+        "recipients": "referrers"  
+    },
+    {
+        "name": "user registration",
+        "type": "in-app",
+        "date": "9/1/2022",
+        "status": "active",
+        "recipients": "all users"  
+    },
+    {
+        "name": "file upload feature",
+        "type": "sms",
+        "date": "9/1/2022",
+        "status": "active",
+        "recipients": "all users"  
+    },
+    {
+        "name": "country requirement",
+        "type": "in-app",
+        "date": "9/1/2022",
+        "status": "active",
+        "recipients": "all users"  
+    },
+    {
+        "name": "urgent: security update required",
+        "type": "email",
+        "date": "9/1/2022",
+        "status": "active",
+        "recipients": "all users"        
+    },
+    {
+        "name": "new feature update",
+        "type": "sms",
+        "date": "9/1/2022",
+        "status": "active",
+        "recipients": "referrers"  
+    },
+    {
+        "name": "user registration",
+        "type": "in-app",
+        "date": "9/1/2022",
+        "status": "active",
+        "recipients": "all users"  
+    },
+    {
+        "name": "file upload feature",
+        "type": "sms",
+        "date": "9/1/2022",
+        "status": "active",
+        "recipients": "all users"  
+    },
+    {
+        "name": "country requirement",
+        "type": "in-app",
+        "date": "9/1/2022",
+        "status": "active",
+        "recipients": "all users"  
+    }
+]
