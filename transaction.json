@@ -3,7 +3,7 @@
 {"amount":800000,"currency":"USD","transaction_type":"Withdraw","status":"SUCCESS","date":"9/26/2022"},
 {"amount":89753,"currency":"CNY","transaction_type":"Withdraw","status":"SUCCESS","date":"6/4/2023"},
 {"amount":34435,"currency":"YEN","transaction_type":"Withdraw","status":"FAILED","date":"10/27/2022"},
-{"amount":50000,"currency":"EUR","transaction_type":"Withdraw","status":"nogorman5@loc.gov","date":"10/4/2022"},
+{"amount":50000,"currency":"EUR","transaction_type":"Withdraw","status":"SUCCESS","date":"10/4/2022"},
 {"amount":66000,"currency":"NGN","transaction_type":"Withdraw","status":"FAILED","date":"1/11/2023"},
 {"amount":400000,"currency":"CUR","transaction_type":"Withdraw","status":"SUCCESS","date":"4/5/2023"},
 {"amount":40000,"currency":"EUR","transaction_type":"Withdraw","status":"FAILED","date":"8/22/2022"},
